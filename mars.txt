@@ -1,4 +1,6 @@
 
+ok, on the local side another line
+
 cold and dry but everything is my favorite color
 
 --testing the git diff command. added text above
