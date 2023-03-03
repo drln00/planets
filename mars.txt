@@ -1,4 +1,7 @@
 
+cold and dry but everything is my favorite color
+
+--testing the git diff command. added text above
 this are new messages created on March 03
 
 
